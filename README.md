@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geethikaperera
 - 👀 I’m interested in full stack programming
 - 🌱 I’m currently learning Java and Angular
-- 💞️ I’m looking to collaborate on passionable software projects 
+- 💞️ I’m looking to collaborate on innovative software projects 
 - 📫 How to reach me 
 
 <!---
